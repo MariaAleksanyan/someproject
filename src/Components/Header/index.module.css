@@ -1,0 +1,26 @@
+.logo img{
+    width: 100%;
+    margin-top: 5px;
+}
+.header {
+    background-color: rgb(26, 26, 26);
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+
+.header p {
+    color: rgb(227, 223, 223);
+    font-weight: bold;
+}
+sup {
+    color: red;
+}
+button {
+    color: white;
+    padding: 12px 50px;
+    background: #2E45F0;
+    border-radius: 10px;
+    margin-top: 5px;
+
+}
+

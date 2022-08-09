@@ -1,0 +1,28 @@
+.icongrid {
+    display: flex;
+    justify-content: center;
+}
+
+.icongrid2 div {
+    margin: 20px;
+}
+
+.grid3 img {
+    margin: 10px;
+}
+
+.opshi {
+    padding-top: 30px;
+}
+
+.takimas {
+    text-align: center;
+    background-color: #594B9B;
+    color: white;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
